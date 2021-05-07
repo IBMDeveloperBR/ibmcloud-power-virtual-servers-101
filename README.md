@@ -21,9 +21,9 @@
 ## Hands-On Labs
 
 - [LAB 1: Provisioning and managing Power Virtual Servers](./labs/lab-1/README.md)
-- [LAB 2: Deploying custom images within a Power Systems Virtual Server](./labs/lab-2/README.md)
-- [LAB 3: Snapshotting, cloning and restoring Power Virtual Servers](./labs/lab-3/README.md)
-- [LAB 4: Capturing and exporting AIX and IBM i virtual machines](./labs/lab-4/README.md)
+- [LAB 2: Capturing and exporting AIX and IBM i virtual machines](./labs/lab-2/README.md)
+- [LAB 3: Deploying custom images within a Power Systems Virtual Server](./labs/lab-3/README.md)
+- [LAB 4: Snapshotting, cloning and restoring Power Virtual Servers](./labs/lab-4/README.md)
 
 ## References
 
