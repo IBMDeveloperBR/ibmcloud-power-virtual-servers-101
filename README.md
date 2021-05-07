@@ -4,10 +4,10 @@
 
 ## Book Contents
 
-- [1. Introduction](./chapter-1.md)
-    - [1.1. Why use IBM Power Systems?](./chapter-1.md#11-why-use-ibm-power-systems)
-    - [1.2. Virtual Power Systems infrastructure environment](./chapter-1.md#12-virtual-power-systems-infrastructure-environment)
-    - [1.3. Network, storage and compute options](./chapter-1.md#13-network-storage-and-compute-options)
+- [1. Introduction](./chapters/chapter-1.md)
+    - [1.1. Why use IBM Power Systems?](./chapters/chapter-1.md#11-why-use-ibm-power-systems)
+    - [1.2. Virtual Power Systems infrastructure environment](./chapters/chapter-1.md#12-virtual-power-systems-infrastructure-environment)
+    - [1.3. Network, storage and compute options](./chapters/chapter-1.md#13-network-storage-and-compute-options)
 
 ## Hands-On Labs
 
