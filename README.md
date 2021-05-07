@@ -1,8 +1,6 @@
 # Power Systems Virtual Servers on IBM Cloud
 
-![a](./images/service-card.png)
-
-<hr style="height: 1px;">
+[![service-card](./images/service-card.png)](https://cloud.ibm.com/catalog/services/power-systems-virtual-server)
 
 ## Book Contents
 
