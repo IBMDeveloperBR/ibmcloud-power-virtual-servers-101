@@ -11,7 +11,7 @@
     - [1.4. Network options](./chapters/chapter-1.md#14-network-options)
     - [1.5. Storage options](./chapters/chapter-1.md#15-storage-options)
     - [1.6. Compute options](./chapters/chapter-1.md#16-compute-options)
-    - [1.7. Available options](./chapters/chapter-1.md#17-available-options)
+    - [1.7. Available software](./chapters/chapter-1.md#17-available-software)
 - [2. Backup and migration strategies for IBM Power VS](./chapters/chapter-2.md)
     - [2.1. Backup strategies](./chapters/chapter-2.md#21-backup-strategies-for-ibm-power-virtual-servers)
     - [2.2. Migration strategies](./chapters/chapter-2.md#22-migration-strategies-for-ibm-power-virtual-servers)

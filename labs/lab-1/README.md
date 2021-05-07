@@ -1,1 +1,0 @@
-https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-managing-resources-and-users
