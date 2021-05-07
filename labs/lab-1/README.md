@@ -177,6 +177,43 @@ ibmcloud pi instance-create <my_new_AIX_vm_name> \
 
 You can now wait until the new AIX VM is provisioned.
 
+### Accessing an AIX VM on IBM Power Systems with SSH
+
+- List all VMs created in your IBM Power Systems VS Service and copy the name or ID of the VM you want to access:
+
+```bash
+ibmcloud pi instances
+```
+
+- Get the External IP address of the previously created AIX VM:
+
+```bash
+ibmcloud pi instance <your_AIX_vm_name or ID>
+```
+
+- Connect via SSH. Example:
+
+```bash
+ssh root@52.117.37.187
+Enter passphrase for key '/home/keytest/.ssh/id_rsa':
+Last login: Fri Jul 26 16:53:22 CDT 2019 on ssh from 10.150.0.11
+*******************************************************************************
+*                                                                             *
+*                                                                             *
+*  Welcome to AIX Version 7.2!                                                *
+*                                                                             *
+*                                                                             *
+*  Please see the README file in /usr/lpp/bos for information pertinent to    *
+*  this release of the AIX Operating System.                                  *
+*                                                                             *
+*                                                                             *
+*******************************************************************************
+# oslevel -s
+7200-03-03-1914
+#
+```
+
+
 ### IBM Cloud CLI Power IaaS plugin cheat sheet:
 
 ```
