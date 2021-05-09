@@ -4,12 +4,10 @@
 
 ### Prerequisites
 
-Before you create your first IBM Power Systems Virtual Server instance, review the following prerequisites:
+Before you capture and export your first VM image from a Power Systems Virtual Server, review the following prerequisites:
 
 1. [Complete the first Hands-On Lab](../lab-1/README.md) on provisioning Virtual IBM Power Systems Servers
-2. ...
-3. ...
 
-###
+### TO DO 
 
-###
+https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-capturing-exporting-vm
