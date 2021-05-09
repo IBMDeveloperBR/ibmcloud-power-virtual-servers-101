@@ -213,7 +213,6 @@ Last login: Fri Jul 26 16:53:22 CDT 2019 on ssh from 10.150.0.11
 #
 ```
 
-
 ### IBM Cloud CLI Power IaaS plugin cheat sheet:
 
 ```

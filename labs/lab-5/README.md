@@ -1,0 +1,1 @@
+https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-ordering-direct-link-connect
